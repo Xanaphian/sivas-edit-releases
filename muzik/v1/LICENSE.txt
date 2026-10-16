@@ -1,0 +1,19 @@
+Sivas Edit Müzik Kütüphanesi (v1)
+
+Bu klasördeki parçalar Sivas Edit için bestelenmiştir (beste ve düzenleme: Sivas Edit, scripts/music).
+CC0 1.0 Evrensel (Kamu Malı) ile yayınlanır: reklam, sosyal medya ve her türlü ticari işte ücretsiz kullanılabilir,
+değiştirilebilir; kaynak göstermek gerekmez.
+
+Enstrüman sesleri MuseScore General ses bankasıyla çalınmıştır (MIT lisansı, bazı örnekler CC0/kamu malı;
+S. Christian Collins, Frank Wen - FluidR3). Ses bankası lisansı, onunla üretilen müziğin serbest kullanımına izin verir.
+
+---
+
+Sivas Edit Music Library (v1)
+
+The tracks in this folder were composed for Sivas Edit (composition and arrangement: Sivas Edit, scripts/music).
+Released under CC0 1.0 Universal (Public Domain Dedication): free to use, modify and include in advertising,
+social media and any commercial work; no attribution required.
+
+Instruments were rendered with the MuseScore General soundfont (MIT license, some samples CC0/public domain;
+S. Christian Collins, Frank Wen - FluidR3), whose license permits free use of music produced with it.
